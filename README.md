@@ -11,3 +11,8 @@ Fatigue cracking of the surface layer of a pavements structure is a common distr
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/pavement-structure.png" width="800" title="all tests">
 </p>   
+
+# How Pavement-Simulator works?
+
+# How to use Pavement-Simulator?
+
