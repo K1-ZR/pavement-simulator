@@ -13,6 +13,7 @@ Fatigue cracking of the surface layer of a pavements structure is a common distr
 </p>   
 
 # How Pavement-Simulator works?
+Pavement-Simulator divides the structure into squre section and mesh each section seperately. Then it links each section to the neighbering sections using *Cohesive elements*. 
 
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/pavement-structure-mesh.png" width="800" title="all tests">
