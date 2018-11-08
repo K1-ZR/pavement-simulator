@@ -6,7 +6,7 @@ Fatigue cracking of the surface layer of a pavements structure is a common distr
 * Bonding condition between layers  
 * Presence of distressed layer or existing joint  
 
-*Pavement-Simulator* is a user-friendly tath generates a simplified 2D FE model of the real problem without losing the key features of the structure.  
+*Pavement-Simulator* is a user-friendly software that generates a simplified 2D FE model of the real problem without losing the key features of the structure.  
 
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/pavement-structure.png" width="800" title="all tests">
