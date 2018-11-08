@@ -17,7 +17,7 @@ Pavement-Simulator divides the structure into squre section and mesh each sectio
 
 * *No-bonding*: Infinitely weak *cohesive element* such that a sections can move independently with respect to its neighbour section. This type can be used to simulate any preexisting joint or crack.  
 * *Perfect-bonding*: Infinitely strong *cohesive element* such that the relative movement of neighbouring sections is zero.  
-* *User-defined*: 
+* *User-defined*: The *cohesive element* properties are defined by the user. This type is used when the bonding is neither a *No-bonding* nor a *Perfect-bonding*. This type is also used where the fatigue cracking or debonding need to be measured.
 
 
 <p align="center">
