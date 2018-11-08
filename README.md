@@ -15,9 +15,9 @@ Fatigue cracking of the surface layer of a pavements structure is a common distr
 # How Pavement-Simulator works?
 Pavement-Simulator divides the structure into squre sections and mesh each section seperately.  The sections are linked to the neighbouring sections by *cohesive elements* (&#8596; shape in the below image). The *cohesive elements* are truss type elements that define the bonding between two adjacent sections and can be one of these three types:
 
-* *No-bonding*: Infinitely weak *cohesive element* such that a sections can move independently with respect to its neighbour section. This type can be used to simulate any preexisting joint or crack.  
-* *Perfect-bonding*: Infinitely strong *cohesive element* such that the relative movement of neighbouring sections is zero.  
-* *User-defined*: The *cohesive element* properties are defined by the user. This type is used when the bonding is neither a *No-bonding* nor a *Perfect-bonding*. This type is also used where the fatigue cracking or debonding need to be measured.
+* **No-bonding**: Infinitely weak *cohesive element* such that a sections can move independently with respect to its neighbour section. This type can be used to simulate any preexisting joint or crack.  
+* **Perfect-bonding**: Infinitely strong *cohesive element* such that the relative movement of neighbouring sections is zero.  
+* **User-defined**: The *cohesive element* properties are defined by the user. This type is used when the bonding is neither a *No-bonding* nor a *Perfect-bonding*. This type is also used where the fatigue cracking or debonding need to be measured.
 
 
 <p align="center">
