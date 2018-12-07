@@ -5,19 +5,19 @@
 Pavement-Simulator is written in Qt and CPP.  
 
 <p align="center">
-  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/inputdata.gif" width="700" title="all tests">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/inputdata.gif" width="600" title="all tests">
 </p>   
 
 <p align="center">
-  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/loadmodel.gif" width="700" title="all tests">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/loadmodel.gif" width="600" title="all tests">
 </p>   
 
 <p align="center">
-  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/meshvisualization.gif" width="700" title="all tests">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/meshvisualization.gif" width="600" title="all tests">
 </p>   
 
 <p align="center">
-  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/result.gif" width="700" title="all tests">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/result.gif" width="600" title="all tests">
 </p>   
 
 # What is Pavement-Simulator?
