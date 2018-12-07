@@ -1,6 +1,6 @@
 * [**What is Pavement-Simulator?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#what-is-pavement-simulator)    
 * [**How Pavement-Simulator works?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#how-pavement-simulator-works) 
-* [**How to use Pavement-Simulator?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#how-to-use-pavement-simulator) 
+
 
 Pavement-Simulator is written in Qt and CPP.  
 
