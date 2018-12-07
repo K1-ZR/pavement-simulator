@@ -2,12 +2,9 @@
 * [**How Pavement-Simulator works?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#how-pavement-simulator-works) 
 
 
-Pavement-Simulator is written in Qt and CPP.  
-
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/inputdata.gif" width="600" title="all tests">
-</p> 
-<p align="center">
+</p> <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/loadmodel.gif" width="600" title="all tests">
 </p>   
 
@@ -42,4 +39,6 @@ Pavement-Simulator divides the structure into squre sections and mesh each secti
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/pavement-structure-mesh.png" width="800" title="all tests">
 </p> 
+
+* Pavement-Simulator is written in Qt and CPP.  
 
