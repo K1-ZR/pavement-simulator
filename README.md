@@ -1,17 +1,21 @@
 * [**What is Pavement-Simulator?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#what-is-pavement-simulator)    
 * [**How Pavement-Simulator works?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#how-pavement-simulator-works) 
 
-
+* User-friendly Imterface
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/inputdata.gif" width="600" title="all tests">
-</p> <p align="center">
+</p>  
+
+<p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/loadmodel.gif" width="600" title="all tests">
 </p>   
 
+* Buil-in meshing module
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/meshvisualization.gif" width="600" title="all tests">
 </p>   
 
+* Able to generate various pavement structures 
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/result.gif" width="600" title="all tests">
 </p>   
