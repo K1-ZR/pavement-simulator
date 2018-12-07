@@ -43,5 +43,3 @@ Pavement-Simulator divides the structure into squre sections and mesh each secti
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/pavement-structure-mesh.png" width="800" title="all tests">
 </p> 
 
-# How to use Pavement-Simulator?
-
