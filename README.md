@@ -4,6 +4,22 @@
 
 Pavement-Simulator is written in Qt and CPP.  
 
+<p align="center">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/inputdata.gif" width="800" title="all tests">
+</p>   
+
+<p align="center">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/loadmodel.gif" width="800" title="all tests">
+</p>   
+
+<p align="center">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/meshvisualization.gif" width="800" title="all tests">
+</p>   
+
+<p align="center">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/result.gif" width="800" title="all tests">
+</p>   
+
 # What is Pavement-Simulator?
 Fatigue cracking of the surface layer of a pavements structure is a common distress that reduces the service life of pavement drastically. Accurate prediction of crack propagation in pavement requires to consider the role of underneath layers. *Pavement-Simulator* simulates crack propagation of overlay layer while it takes into account the key features of a pavement structure:  
 * Time-dependent behavior of layers  
