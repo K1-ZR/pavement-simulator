@@ -1,11 +1,12 @@
 * [**What is Pavement-Simulator?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#what-is-pavement-simulator)    
 * [**How Pavement-Simulator works?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#how-pavement-simulator-works) 
 
-* User-friendly Interface
+* Define material models
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/inputdata.gif" width="600" title="all tests">
 </p>  
 
+* Import/Export material models
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/loadmodel.gif" width="600" title="all tests">
 </p>   
