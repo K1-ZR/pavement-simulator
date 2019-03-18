@@ -1,25 +1,6 @@
 * [**What is Pavement-Simulator?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#what-is-pavement-simulator)    
 * [**How Pavement-Simulator works?**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#how-pavement-simulator-works) 
-
-* Define material models
-<p align="center">
-  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/inputdata.gif" width="600" title="all tests">
-</p>  
-
-* Import/Export material models
-<p align="center">
-  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/loadmodel.gif" width="600" title="all tests">
-</p>   
-
-* Buil-in meshing module
-<p align="center">
-  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/meshvisualization.gif" width="600" title="all tests">
-</p>   
-
-* Able to generate various pavement structures 
-<p align="center">
-  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/result.gif" width="600" title="all tests">
-</p>   
+* [**Pavement-Simulator's Features**](https://github.com/K1-ZR/pavement-simulator/blob/master/README.md#features) 
 
 # What is Pavement-Simulator?
 Fatigue cracking of the surface layer of a pavements structure is a common distress that reduces the service life of pavement drastically. Accurate prediction of crack propagation in pavement requires to consider the role of underneath layers. *Pavement-Simulator* simulates crack propagation of overlay layer while it takes into account the key features of a pavement structure:  
@@ -44,6 +25,27 @@ Pavement-Simulator divides the structure into squre sections and mesh each secti
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/pavement-structure-mesh.png" width="800" title="all tests">
 </p> 
+
+# Features
+* Define material models
+<p align="center">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/inputdata.gif" width="600" title="all tests">
+</p>  
+
+* Import/Export material models
+<p align="center">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/loadmodel.gif" width="600" title="all tests">
+</p>   
+
+* Buil-in meshing module
+<p align="center">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/meshvisualization.gif" width="600" title="all tests">
+</p>   
+
+* Able to generate various pavement structures 
+<p align="center">
+  <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/result.gif" width="600" title="all tests">
+</p>   
 
 * Pavement-Simulator is written in Qt and CPP.  
 
