@@ -37,7 +37,7 @@ Pavement-Simulator divides the structure into squre sections and mesh each secti
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/loadmodel.gif" width="600" title="all tests">
 </p>   
 
-* Buil-in meshing module
+* Built-in meshing module
 <p align="center">
   <img src="https://github.com/K1-ZR/pavement-simulator/blob/master/gallery/meshvisualization.gif" width="600" title="all tests">
 </p>   
